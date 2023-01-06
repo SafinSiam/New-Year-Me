@@ -57,3 +57,48 @@ color: #005FAC;
 padding-bottom:  25px;
 }
 /*Main Styles */
+.tik{
+    width: 24px;
+height: 24px;
+left: 862px;
+top: 1417px;
+}
+.mid{
+    display: flex;
+    justify-content: space-evenly;
+}
+.mid-to{
+     width: 416px;
+height: 400px;
+left: 862px;
+top: 1178px;  
+/* margin-top: 370px;
+margin-left: 862px;
+margin-right: 322px; */
+margin-top:  370px ;
+
+}
+.mam{
+    margin-top: 126px;
+}
+.mid-title{
+    width: 288px;
+height: 94px;
+left: 862px;
+top: 1178px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+color: #151414;
+}
+.mid-body{
+   
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+}

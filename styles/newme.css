@@ -1,0 +1,59 @@
+/* Header Styles */
+.header{
+    background-image: url(../images/banner/banner3.png);
+    width: 1600px;
+    height: 808px;
+    background-size: contain;
+    
+   
+}
+.header-container{
+    
+    text-align: right;
+    margin-top: 0px;
+    padding: 216px 230px 364px 845px;
+
+}
+.header-title{
+    color: #FFFFFF;
+    width: 525px;
+height: 228px;
+left: 845px;
+top: 216px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 65px;
+line-height: 76px;
+}
+.header-body{
+    width: 525px;
+height: 90px;
+left: 876px;
+top: 468px; 
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+color: #FFFFFF;
+}
+
+.header-btn{
+    width: 109px;
+height: 23px;
+left: 1236px;
+top: 599px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 23px;
+color: #005FAC;
+/* padding: 20px 25px 20px 25px; */
+padding-bottom:  25px;
+}
+/*Main Styles */
